@@ -7,9 +7,9 @@ The Capstone Project for Data Analytics program at SAIT, Calgary, AB, Dec 2023
 
 ## Data Wrangling
 
-[Data Dictionary](https://github.com/Weidsn/capstone_project/blob/main/Readme.txt)
+[Data Dictionary](https://github.com/Weidsn/capstone_project/blob/main/Readme.txt), including a list of files for excuting the Machine Learning models built with Python.
 
-[Raw Data](https://www.kaggle.com/datasets/merishnasuwal/auto-insurance-churn-analysis-dataset?select=autoinsurance_churn.csv)
+[Raw Data](https://www.kaggle.com/datasets/merishnasuwal/auto-insurance-churn-analysis-dataset?select=autoinsurance_churn.csv) from Kaggle
 
 [Data Cleaning](https://github.com/Weidsn/capstone_project/blob/main/data_cleaning_group2.py)
 
