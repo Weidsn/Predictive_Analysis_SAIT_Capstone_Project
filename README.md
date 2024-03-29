@@ -12,4 +12,5 @@
 ## Raw Files
 
 ### [Readme](https://github.com/Weidsn/capstone_project/blob/main/Readme.txt)
-
+[Raw Data](https://www.kaggle.com/datasets/merishnasuwal/auto-insurance-churn-analysis-dataset?select=autoinsurance_churn.csv)
+[Data Cleaning](https://github.com/Weidsn/capstone_project/blob/main/data_cleaning_group2.py)
