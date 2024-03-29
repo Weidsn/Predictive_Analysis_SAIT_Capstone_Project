@@ -24,12 +24,10 @@ About this folder
 
 7. helper_group2.py ---------  Helper functions for plotting confusion matrix and roc curve
 
-8. autoinsurance_group2.csv  ---------- Raw dataset 
+8. autoinsurance_group2.csv  ---------- Raw dataset
 https://www.kaggle.com/datasets/merishnasuwal/auto-insurance-churn-analysis-dataset?select=autoinsurance_churn.csv
 
-9. data_cleaning_group2.py ------------ Cleaning the raw dataset
-
-10. autoinsurance_cleaned_group2.csv -- Cleaned dataset
+9. data_cleaning_group2.py ------------ Data Cleaning
 
 ===========================================================================
 Data Dictinary
