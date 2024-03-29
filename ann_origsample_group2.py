@@ -7,7 +7,7 @@ import matplotlib.pyplot as plt
 from sklearn.model_selection import train_test_split
 from sklearn.preprocessing import MinMaxScaler
 from sklearn.compose import ColumnTransformer
-import helper_group2
+import helper_group2 # Import custom helper functions for model evaluation
 
 #%% Importing dataset
 df = pd.read_csv("autoinsurance_cleaned_group2.csv")
