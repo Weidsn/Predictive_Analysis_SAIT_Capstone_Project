@@ -5,7 +5,7 @@
 ## Dashboard
 [Power BI Dashboard](https://app.powerbi.com/view?r=eyJrIjoiMDljZDNlMDEtOWMwOC00NDc4LTk0YmMtNGVlMTQ5NzdhODFkIiwidCI6ImY1MmYyMTgzLTlmNjctNGFkMi1iNjU2LTZmNzU0ZmUxOTZjYiIsImMiOjZ9)
 
-## Trained Models
+## Saved Models
 [ANN1]
 [ANN2]
 
