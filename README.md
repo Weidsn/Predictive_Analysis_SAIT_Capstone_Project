@@ -1,5 +1,5 @@
 # Auto Insurance Churn Analysis
-The Capstone Project for Data Analytics program at SAIT, Calgary, AB, Decemember 2023
+The Capstone Project for Data Analytics program at SAIT, Calgary, AB, Dec 2023
 ## Report
 [PowerPoint Presentation](https://uofc-my.sharepoint.com/:p:/g/personal/weidong_sun1_ucalgary_ca/EWDtnpEmRShPs4EHnyqQYZQBcGMNAcHMwHbqxv8qGnve0Q?e=KDgaMd)
 
