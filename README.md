@@ -1,4 +1,5 @@
 # Auto Insurance Churn Analysis
+This documentation documents my personal contribution to the capstone project for Data Analytics program at SAIT, Calgary, AB. 
 ## Report
 [PowerPoint Presentation](https://uofc-my.sharepoint.com/:p:/g/personal/weidong_sun1_ucalgary_ca/EWDtnpEmRShPs4EHnyqQYZQBcGMNAcHMwHbqxv8qGnve0Q?e=KDgaMd)
 
