@@ -11,7 +11,7 @@ Power BI [Dashboard](https://app.powerbi.com/view?r=eyJrIjoiMDljZDNlMDEtOWMwOC00
 
 My codes for [Data Cleaning](https://github.com/Weidsn/capstone_project/blob/main/data_cleaning_group2.py).
 
-Raw Data was taken from [Kaggle] (https://www.kaggle.com/datasets/merishnasuwal/auto-insurance-churn-analysis-dataset?select=autoinsurance_churn.csv).
+Raw Data was taken from [Kaggle](https://www.kaggle.com/datasets/merishnasuwal/auto-insurance-churn-analysis-dataset?select=autoinsurance_churn.csv).
 
 ## Training Predictive Models (Artificial Neural Networks)
 
