@@ -5,10 +5,6 @@
 ## Dashboard
 [Power BI Dashboard](https://app.powerbi.com/view?r=eyJrIjoiMDljZDNlMDEtOWMwOC00NDc4LTk0YmMtNGVlMTQ5NzdhODFkIiwidCI6ImY1MmYyMTgzLTlmNjctNGFkMi1iNjU2LTZmNzU0ZmUxOTZjYiIsImMiOjZ9)
 
-## Saved Models
-[ANN1]
-[ANN2]
-
 ## Raw Files
 
 [Readme & Data Dictionary](https://github.com/Weidsn/capstone_project/blob/main/Readme.txt)
@@ -16,3 +12,13 @@
 [Raw Data](https://www.kaggle.com/datasets/merishnasuwal/auto-insurance-churn-analysis-dataset?select=autoinsurance_churn.csv)
 
 [Data Cleaning](https://github.com/Weidsn/capstone_project/blob/main/data_cleaning_group2.py)
+
+#### Excuting pre-trained models
+[Ann without Oversampling](https://github.com/Weidsn/capstone_project/blob/main/ann_origsample_group2.py)
+
+[Ann with Oversampling](https://github.com/Weidsn/capstone_project/blob/main/ann_resampled_group2.py)
+
+[Decision Tree](https://github.com/Weidsn/capstone_project/blob/main/decisiontree_group2.py)
+
+[Logistic Regression](https://github.com/Weidsn/capstone_project/blob/main/regression_group2.py)
+
