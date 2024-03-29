@@ -6,17 +6,19 @@ The Capstone Project for Data Analytics program at SAIT, Calgary, AB, Dec 2023
 ## Dashboard
 [Power BI Dashboard](https://app.powerbi.com/view?r=eyJrIjoiMDljZDNlMDEtOWMwOC00NDc4LTk0YmMtNGVlMTQ5NzdhODFkIiwidCI6ImY1MmYyMTgzLTlmNjctNGFkMi1iNjU2LTZmNzU0ZmUxOTZjYiIsImMiOjZ9)
 
-## Predictive Models in Python
+## Data Wrangling
 
-[Readme & Data Dictionary](https://github.com/Weidsn/capstone_project/blob/main/Readme.txt)
+[Data Dictionary](https://github.com/Weidsn/capstone_project/blob/main/Readme.txt)
 
 [Raw Data](https://www.kaggle.com/datasets/merishnasuwal/auto-insurance-churn-analysis-dataset?select=autoinsurance_churn.csv)
 
 [Data Cleaning](https://github.com/Weidsn/capstone_project/blob/main/data_cleaning_group2.py)
 
+## Training Predictive Models (Artificial Neural Networks)
+
 [Training Artificial Neural Networks](https://github.com/Weidsn/capstone_project/blob/main/ChurnAnalysis.py)
 
-### Python files for evaluating trained models
+### Evaluating Trained Models
 [Ann without Oversampling](https://github.com/Weidsn/capstone_project/blob/main/ann_origsample_group2.py)
 
 [Ann with Oversampling](https://github.com/Weidsn/capstone_project/blob/main/ann_resampled_group2.py)
