@@ -2,8 +2,7 @@
 ## Presentation
 
 ## Power BI Dashboard
-[Dashboard Presentation](https://app.powerbi.com/groups/me/reports/1c7d7766-898d-4e68-8a96-8bd6863203ce?pbi_source=desktop)
-
+[Dashboard Presentation](https://app.powerbi.com/view?r=eyJrIjoiMDljZDNlMDEtOWMwOC00NDc4LTk0YmMtNGVlMTQ5NzdhODFkIiwidCI6ImY1MmYyMTgzLTlmNjctNGFkMi1iNjU2LTZmNzU0ZmUxOTZjYiIsImMiOjZ9)
 ## Trained Models
 [ANN1]
 [ANN2]
