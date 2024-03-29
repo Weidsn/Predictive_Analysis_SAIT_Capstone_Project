@@ -1,12 +1,12 @@
 # Auto Insurance Churn Analysis
 The Capstone Project for Data Analytics program at SAIT, Calgary, AB, Dec 2023
-## Report
+## Presentation
 [PowerPoint Presentation](https://uofc-my.sharepoint.com/:p:/g/personal/weidong_sun1_ucalgary_ca/EWDtnpEmRShPs4EHnyqQYZQBcGMNAcHMwHbqxv8qGnve0Q?e=KDgaMd)
 
 ## Dashboard
 [Power BI Dashboard](https://app.powerbi.com/view?r=eyJrIjoiMDljZDNlMDEtOWMwOC00NDc4LTk0YmMtNGVlMTQ5NzdhODFkIiwidCI6ImY1MmYyMTgzLTlmNjctNGFkMi1iNjU2LTZmNzU0ZmUxOTZjYiIsImMiOjZ9)
 
-## Raw Files
+## Predictive Models in Python
 
 [Readme & Data Dictionary](https://github.com/Weidsn/capstone_project/blob/main/Readme.txt)
 
@@ -16,7 +16,7 @@ The Capstone Project for Data Analytics program at SAIT, Calgary, AB, Dec 2023
 
 [Training Artificial Neural Networks](https://github.com/Weidsn/capstone_project/blob/main/ChurnAnalysis.py)
 
-### Excuting pre-trained models
+### Python files for evaluating trained models
 [Ann without Oversampling](https://github.com/Weidsn/capstone_project/blob/main/ann_origsample_group2.py)
 
 [Ann with Oversampling](https://github.com/Weidsn/capstone_project/blob/main/ann_resampled_group2.py)
