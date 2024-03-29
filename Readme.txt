@@ -5,7 +5,7 @@ Slyvain MBONGO and Weidong SUM
 2023-12-17
 
 ===========================================================================
-About the folder
+About this folder
 
 0. requirements.txt             list of python packages. For installation, (in terminal) pip install -r requirements.txt
 
