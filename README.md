@@ -13,7 +13,9 @@
 
 [Data Cleaning](https://github.com/Weidsn/capstone_project/blob/main/data_cleaning_group2.py)
 
-#### Excuting pre-trained models
+[Training Artificial Neural Networks](https://github.com/Weidsn/capstone_project/blob/main/ChurnAnalysis.py)
+
+### Excuting pre-trained models
 [Ann without Oversampling](https://github.com/Weidsn/capstone_project/blob/main/ann_origsample_group2.py)
 
 [Ann with Oversampling](https://github.com/Weidsn/capstone_project/blob/main/ann_resampled_group2.py)
