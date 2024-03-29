@@ -7,7 +7,7 @@ Power BI [Dashboard](https://app.powerbi.com/view?r=eyJrIjoiMDljZDNlMDEtOWMwOC00
 
 ## Data Wrangling
 
-[Data Dictionary](https://github.com/Weidsn/capstone_project/blob/main/Readme.txt), including a list of files (data files not included) for running the Machine Learning models.
+[Data Dictionary](https://github.com/Weidsn/capstone_project/blob/main/Readme.txt), including a list of files for running the Machine Learning models (data files are too large to be uploaded).
 
 [Raw Data](https://www.kaggle.com/datasets/merishnasuwal/auto-insurance-churn-analysis-dataset?select=autoinsurance_churn.csv) was taken from Kaggle.
 
