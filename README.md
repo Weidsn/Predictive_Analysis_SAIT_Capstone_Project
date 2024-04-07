@@ -7,7 +7,7 @@ Power BI [Dashboard](https://app.powerbi.com/view?r=eyJrIjoiMDljZDNlMDEtOWMwOC00
 
 ## Data Wrangling
 
-[Data Dictionary](https://github.com/Weidsn/capstone_project/blob/main/Readme.txt), including a list of files for running predictive Machine Learning models with Python (.csv files are not uploaded).
+[Data Dictionary](https://github.com/Weidsn/capstone_project/blob/main/Readme.txt), including a list of files for running ML models (.csv files are not included).
 
 My codes for [Data Cleaning](https://github.com/Weidsn/capstone_project/blob/main/data_cleaning_group2.py).
 
