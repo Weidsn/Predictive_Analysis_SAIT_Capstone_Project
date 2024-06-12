@@ -2,7 +2,7 @@
 import pandas as pd
 import numpy as np
 import seaborn as sns
-import pickle 
+import pickle
 import matplotlib.pyplot as plt
 from keras import Sequential, optimizers, initializers
 from keras.losses import BinaryFocalCrossentropy
@@ -13,9 +13,8 @@ from sklearn.preprocessing import MinMaxScaler, StandardScaler #, OneHotEncoder
 from sklearn.compose import ColumnTransformer
 from sklearn.metrics import ConfusionMatrixDisplay, \
     classification_report, confusion_matrix, roc_curve, \
-    BinaryAccuracy, BinaryCrossentropy, MeanSquaredError, \
-    Precision, Recall, AUC, \
-    TruePositives, FalsePositives, TrueNegatives, FalseNegatives
+    precision_score, recall_score, roc_auc_score
+
 
 # import fastai
 # from fastai.tabular.all import *
