@@ -2,7 +2,7 @@ Auto Insurance Churn Analysis
 
 Prepared by 
 Slyvain MBONGO & 
-Weidong SUM
+Weidong SUN
 2023-12-17
 
 ===========================================================================
