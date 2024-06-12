@@ -10,29 +10,29 @@ About this repository
 
 0. requirements.txt ----------- List of python packages. For installation, (in terminal type) pip install -r requirements.txt
 
-1. regression_group2.py ------- Training and evaluating a model built with Logistic Regression using SMOTE oversampling
+1. regression.py ------- Training and evaluating a model built with Logistic Regression using SMOTE oversampling
 
-2. decisiontree_group2.py ----- Training and evaluating a model built with Decision Tree using SMOTE oversampling
+2. decisiontree.py ----- Training and evaluating a model built with Decision Tree using SMOTE oversampling
 
 3. churn_fnn_0.85_0.2_ep250_age65_0.395.pkl ---- Ready-to-use Artificial Neural Network (ANN) model trained without SMOTE oversampling (saved in binary pickle format)
 
 4. churn_fnn_0.85_0.2_ep100_resampled_0.58.pkl - Ready-to-use ANN model trained with SMOTE oversampling (saved in binary pickle format)
 
-5. ann_origsample_group2.py -- Testing and evaluating the ANN model without SMOTE oversampling
+5. ann_origsample.py -- Testing and evaluating the ANN model without SMOTE oversampling
 
-6. ann_resampled_group2.py --- Testing adn evaluating the ANN model with SMOTE oversampling
+6. ann_resampled.py --- Testing adn evaluating the ANN model with SMOTE oversampling
 
-7. helper_group2.py ---------  Helper functions for plotting confusion matrix and roc curve
+7. helper_model_evaluation.py ---------  Helper functions for plotting confusion matrix and roc curve
 
-8. autoinsurance_group2.csv  ---------- Raw dataset
+8. autoinsurance.csv  ---------- Raw dataset
 https://www.kaggle.com/datasets/merishnasuwal/auto-insurance-churn-analysis-dataset?select=autoinsurance_churn.csv
 
-9. data_cleaning_group2.py ------------ Data Cleaning
+9. data_cleaning.py ------------ Data Cleaning
 
 ===========================================================================
 Data Dictinary
 
-autoinsurance_group2.csv and autoinsurance_cleaned_group2.csv
+autoinsurance.csv and autoinsurance_cleaned.csv
 ---------------------------------------------------------------------------
 INDIVIDUAL_ID -- Unique ID for a specific insurance customer
 
