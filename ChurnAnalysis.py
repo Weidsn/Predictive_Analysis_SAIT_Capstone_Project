@@ -109,15 +109,11 @@ METRICS = [
 
 fnn = Sequential()
 
-fnn.add(Dense(units=24, input_shape=(10,), activation=LeakyReLU(0.05)))
-
-fnn.add(Dense(units=12, activation=LeakyReLU(0.05)))
-
-fnn.add(Dense(units=8, activation=LeakyReLU(0.05)))
+fnn.add(Dense(units=240, input_shape=(10,), activation=LeakyReLU(0.05)))
 
 fnn.add(Dropout(0.5))
 
-fnn.add(Dense(units=4, activation=LeakyReLU(0.05)))
+fnn.add(Dense(units=120, activation=LeakyReLU(0.05)))
 
 fnn.add(Dense(units=1, activation='sigmoid', bias_initializer=output_bias))
 
