@@ -8,19 +8,19 @@ Weidong SUN
 ===========================================================================
 About this repository
 
-0. requirements.txt ----------- List of python packages. For installation, (in terminal type) pip install -r requirements.txt
+0. requirements.txt ----------- List of python packages. For installation, (in terminal) pip install -r requirements.txt
 
-1. regression.py ------- Training and evaluating a model built with Logistic Regression using SMOTE oversampling
+1. regression.py ------- Training and evaluating a model built with Logistic Regression using SMOTE (oversampling)
 
-2. decisiontree.py ----- Training and evaluating a model built with Decision Tree using SMOTE oversampling
+2. decisiontree.py ----- Training and evaluating a model built with Decision Tree using SMOTE
 
-3. churn_fnn_0.85_0.2_ep250_age65_0.395.pkl ---- Ready-to-use Artificial Neural Network (ANN) model trained without SMOTE oversampling (saved in binary pickle format)
+3. churn_fnn_0.85_0.2_ep250_age65_0.395.pkl ---- Ready-to-use Artificial Neural Network (ANN) model trained without SMOTE (saved in binary pickle format)
 
-4. churn_fnn_0.85_0.2_ep100_resampled_0.58.pkl - Ready-to-use ANN model trained with SMOTE oversampling (saved in binary pickle format)
+4. churn_fnn_0.85_0.2_ep100_resampled_0.58.pkl - Ready-to-use ANN model trained with SMOTE (saved in binary pickle format)
 
-5. ann_origsample.py -- Testing and evaluating the ANN model without SMOTE oversampling
+5. ann_origsample.py -- Testing and evaluating the ANN model without SMOTE
 
-6. ann_resampled.py --- Testing adn evaluating the ANN model with SMOTE oversampling
+6. ann_resampled.py --- Testing adn evaluating the ANN model with SMOTE
 
 7. helper_model_evaluation.py ---------  Helper functions for plotting confusion matrix and roc curve
 
