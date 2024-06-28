@@ -8,7 +8,7 @@ from imblearn.over_sampling import SMOTE
 from sklearn.model_selection import train_test_split
 from sklearn.preprocessing import MinMaxScaler
 from sklearn.compose import ColumnTransformer
-import helper_group2
+from helper_model_evaluation import *
 
 #%% Importing dataset
 df = pd.read_csv("autoinsurance_cleaned_group2.csv")
@@ -80,11 +80,11 @@ percentile_1 = np.percentile(y_pred, (1 - perc_1) *100)
 print(f"Percentile threshold: {percentile_1}.")
 
 # Plotting confusion matrix for manual threshold
-helper_group2.plot_confusion(y_test, y_pred, 0.58)
+plot_confusion(y_test, y_pred, 0.58)
 
 # Plotting roc curves for the resampled training set and testing set
-helper_group2.plot_roc("Train Baseline", y_train_resampled, y_train_pred, color = "blue")
-helper_group2.plot_roc("Test Baseline", y_test, y_pred, color = "red", linestyle='--')
+plot_roc("Train Baseline", y_train_resampled, y_train_pred, color = "blue")
+plot_roc("Test Baseline", y_test, y_pred, color = "red", linestyle='--')
 plt.legend(loc='lower right')
 
 #%%
