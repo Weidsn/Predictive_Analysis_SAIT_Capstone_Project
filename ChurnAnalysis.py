@@ -108,11 +108,11 @@ METRICS = [
 
 fnn = Sequential()
 
-fnn.add(Dense(units=240, input_shape=(10,), activation=LeakyReLU(0.05)))
+fnn.add(Dense(units=..., input_shape=(10,), activation=LeakyReLU(0.05)))
 
 fnn.add(Dropout(0.5))
 
-fnn.add(Dense(units=120, activation=LeakyReLU(0.05)))
+fnn.add(Dense(units=..., activation=LeakyReLU(0.05)))
 
 fnn.add(Dense(units=1, activation='sigmoid', bias_initializer=output_bias))
 
@@ -147,7 +147,7 @@ fnn.compile(loss=bf_loss, optimizer="adam", metrics=METRICS)
 # print('Weight for class 1: {:.2f}'.format(weight_for_1))
 
 # %% Training the model
-fit_fnn = fnn.fit(x_train_fnn, y_train_fnn, epochs=250, batch_size=4096, )
+fit_fnn = fnn.fit(x_train_fnn, y_train_fnn, epochs=200, batch_size=512, )
 
 # %% saving the model and reading the model
 
