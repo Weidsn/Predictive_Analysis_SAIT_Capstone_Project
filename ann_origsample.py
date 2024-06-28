@@ -7,7 +7,8 @@ import matplotlib.pyplot as plt
 from sklearn.model_selection import train_test_split
 from sklearn.preprocessing import MinMaxScaler
 from sklearn.compose import ColumnTransformer
-import helper_group2 # Import custom helper functions for model evaluation
+from helper_model_evaluation import * 
+# Import custom helper functions for model evaluation
 
 #%% Importing dataset
 df = pd.read_csv("autoinsurance_cleaned_group2.csv")
@@ -73,11 +74,11 @@ percentile_1 = np.percentile(y_pred, (1 - perc_1) *100)
 print(f"Percentile threshold: {percentile_1}.")
 
 # Plotting confusion matrix for manual threshold
-helper_group2.plot_confusion(y_test, y_pred, 0.395)
+plot_confusion(y_test, y_pred, 0.395)
 
 # Plotting roc curves for the training and testing sets
-helper_group2.plot_roc("Train Baseline", y_train, y_train_pred, color = "blue")
-helper_group2.plot_roc("Test Baseline", y_test, y_pred, color = "red", linestyle='--')
+plot_roc("Train Baseline", y_train, y_train_pred, color = "blue")
+plot_roc("Test Baseline", y_test, y_pred, color = "red", linestyle='--')
 plt.legend(loc='lower right')
 
 #%%
