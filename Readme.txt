@@ -1,7 +1,10 @@
 Auto Insurance Churn Analysis
 
-Prepared by 
+Presented by 
 Slyvain MBONGO & 
+Weidong SUN
+
+Prepared by 
 Weidong SUN
 2023-12-17
 
