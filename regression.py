@@ -7,7 +7,7 @@ from sklearn.metrics import accuracy_score, classification_report
 from sklearn.model_selection import train_test_split
 from sklearn.linear_model import LogisticRegression
 from sklearn.preprocessing import StandardScaler
-import helper_group2
+from helper_model_evaluation import *
 
 #%% importing dataset
 df = pd.read_csv("autoinsurance_cleaned_group2.csv")
@@ -53,7 +53,7 @@ y_pred = logistic_regression_model.predict(X_test_scaled)
 #%% Step 6: Evaluating the model
 print("Accuracy:", accuracy_score(y_test, y_pred))
 print("Classification Report:\n", classification_report(y_test, y_pred))
-helper_group2.plot_confusion(y_test, y_pred)
+plot_confusion(y_test, y_pred)
 
 #%% Visualization
 # Bar plot for categorical variables after SMOTE
