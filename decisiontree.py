@@ -7,7 +7,7 @@ from sklearn.metrics import accuracy_score, classification_report
 from sklearn.model_selection import train_test_split
 from sklearn.tree import DecisionTreeClassifier
 from sklearn.preprocessing import StandardScaler
-import helper_group2
+from helper_model_evaluation import *
 
 #%% importing dataset
 df = pd.read_csv("autoinsurance_cleaned_group2.csv")
@@ -48,6 +48,6 @@ y_pred = dt_classifier.predict(X_test)
 #%% Step 5: Evaluating the model
 print("Accuracy:", accuracy_score(y_test, y_pred))
 print("Classification Report:\n", classification_report(y_test, y_pred))
-helper_group2.plot_confusion(y_test, y_pred)
+plot_confusion(y_test, y_pred)
 
 # %%
