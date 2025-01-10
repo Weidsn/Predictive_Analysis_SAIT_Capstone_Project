@@ -1,19 +1,15 @@
 # Auto Insurance Churn Analysis
 The Capstone Project for Data Analytics program at Southern Alberta Institute of Technology (SAIT), Calgary, AB, Dec 2023
-## Report
+## Final Report and Presentation Slides
 PowerPoint [Presentation](https://uofc-my.sharepoint.com/:p:/g/personal/weidong_sun1_ucalgary_ca/EWDtnpEmRShPs4EHnyqQYZQBcGMNAcHMwHbqxv8qGnve0Q?e=KDgaMd)
 
 Power BI [Dashboard](https://app.powerbi.com/view?r=eyJrIjoiMDljZDNlMDEtOWMwOC00NDc4LTk0YmMtNGVlMTQ5NzdhODFkIiwidCI6ImY1MmYyMTgzLTlmNjctNGFkMi1iNjU2LTZmNzU0ZmUxOTZjYiIsImMiOjZ9)
 
 ## Data Wrangling
 
-Data contains over 1.6 million entries.
+The [Data Dictionary](https://github.com/Weidsn/capstone_project/blob/main/Readme.txt) contains a list of files required for running the predictive models. Raw data was taken from [Kaggle](https://www.kaggle.com/datasets/merishnasuwal/auto-insurance-churn-analysis-dataset?select=autoinsurance_churn.csv). Dataset contains over 1.6 million entries.
 
-[Data Dictionary](https://github.com/Weidsn/capstone_project/blob/main/Readme.txt), including a list of files for running ML models (.csv files are not included).
-
-My codes for [Data Cleaning](https://github.com/Weidsn/capstone_project/blob/main/data_cleaning_group2.py).
-
-Raw Data was taken from [Kaggle](https://www.kaggle.com/datasets/merishnasuwal/auto-insurance-churn-analysis-dataset?select=autoinsurance_churn.csv).
+Codes for Data Cleaning can be found [here](https://github.com/Weidsn/capstone_project/blob/main/data_cleaning_group2.py).
 
 ## Training Predictive Models (Artificial Neural Networks)
 
