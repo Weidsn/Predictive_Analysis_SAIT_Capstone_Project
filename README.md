@@ -6,7 +6,7 @@ This Repository documents key components of the Capstone Project for the Data An
 
 This project, which was conducted in a group of two, by Sylvain and myself, focused on analyzing auto insurance churn. This repository contains key parts of the project, where we utilized Machine Learning techiques to predict customer churn on the basis of a number of customer features. 
 
-## Documentation
+## Documentation Contents
 
 ### 1. Data Dictionary
 
