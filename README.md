@@ -15,7 +15,7 @@ Raw data was taken from [Kaggle](https://www.kaggle.com/datasets/merishnasuwal/a
 
 The raw dataset was cleaned and prepared for analysis. Link to the Data Cleaning code can be found [here](https://github.com/Weidsn/capstone_project/blob/main/data_cleaning_group2.py).
 
-### 3. Training Predictive Models (Artificial Neural Networks)
+### 3. Training Predictive Models
 
 A number of techniques were used to train models that aim to predict customer churn. Artificial Neural Networks (ANN), Decision Tree and Logisitic Regression were amoung the techniques employed.
 
