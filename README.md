@@ -1,7 +1,11 @@
 # Auto Insurance Churn Analysis
-The Capstone Project for Data Analytics program at Southern Alberta Institute of Technology (SAIT), Calgary, AB, Dec 2023
 
-This project, which was completed in a group of two, analyzes auto insurance churn using predictive modelling techiques. 
+## Project Overview
+
+This Repository records key parts of the Capstone Project for the Data Analytics (DAAN) program at the Southern Alberta Institute of Technology (SAIT), Calgary, AB, which was completed in December 2023. It was conducted in a group of two, by Sylvain and myself. 
+
+The project focused on analyzing auto insurance customer churn. This repository contains key parts of the project, where we utilized Machine Learning techiques to predict customer churn on the basis 
+of a number of customer features. 
 
 ## Documentation Contents
 
