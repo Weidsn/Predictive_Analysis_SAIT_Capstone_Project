@@ -19,12 +19,12 @@ The raw dataset was cleaned and prepared for analysis. Link to the code for [Dat
 
 A number of techniques were used to train models that aim to predict customer churn. Artificial Neural Networks (ANN), Decision Tree and Logisitic Regression were amoung the techniques employed.
 
-Here is the code for training one of the [Artificial Neural Network (ANN)](https://github.com/Weidsn/capstone_project/blob/main/ChurnAnalysis.py) models. 
+Here is the code for training the [Artificial Neural Network (ANN)](https://github.com/Weidsn/capstone_project/blob/main/ChurnAnalysis.py) models. 
 
 ### 4. Evaluating the Models
-During the training sessions, underperforming models were discarded. Promising models underwent more detailed evaluation. 
+During the training sessions, underperforming models were discarded, while promising one underwent a more detailed evaluation phase. 
 
-Below is the list of models that were evaluated. 
+Below is the list of models that underwent evaluation. 
 
 [ANN with Oversampling](https://github.com/Weidsn/capstone_project/blob/main/ann_resampled_group2.py)
 
