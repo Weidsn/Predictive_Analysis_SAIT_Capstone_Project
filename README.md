@@ -9,7 +9,7 @@ This project analyzes auto insurance customer churn using predictive modelling t
 
 A list and description of the files relevant to this project can be found in this [Document](https://github.com/Weidsn/capstone_project/blob/main/Readme.txt). 
 
-## 2. Data Wrangling
+### 2. Data Wrangling
 
 Raw data was taken from [Kaggle](https://www.kaggle.com/datasets/merishnasuwal/auto-insurance-churn-analysis-dataset?select=autoinsurance_churn.csv), which contains over 1.6 million artificially generated records.
 
