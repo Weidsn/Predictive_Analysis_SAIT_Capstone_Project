@@ -4,7 +4,7 @@
 
 This Repository documents key components of the Capstone Project for the Data Analytics (DAAN) program at the Southern Alberta Institute of Technology (SAIT), Calgary, AB, which was completed in December 2023. 
 
-The project, which was conducted in a group of two, by Sylvain and myself, focused on analyzing auto insurance churn. This repository contains key parts of the project, where we utilized Machine Learning techiques to predict customer churn on the basis of a number of customer features. 
+This project, which was conducted in a group of two, by Sylvain and myself, focused on analyzing auto insurance churn. This repository contains key parts of the project, where we utilized Machine Learning techiques to predict customer churn on the basis of a number of customer features. 
 
 ## Documentation
 
