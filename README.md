@@ -11,7 +11,7 @@ A list and description of the files relevant to this project can be found in thi
 
 ### 2. Data Wrangling
 
-Raw data was taken from [Kaggle](https://www.kaggle.com/datasets/merishnasuwal/auto-insurance-churn-analysis-dataset?select=autoinsurance_churn.csv), which contains over 1.6 million artificially generated records.
+Raw data was taken from [Kaggle](https://www.kaggle.com/datasets/merishnasuwal/auto-insurance-churn-analysis-dataset?select=autoinsurance_churn.csv), which contains over 1.6 million records that were generated artificially.
 
 The raw dataset was cleaned and prepared for analysis. Link to the Data Cleaning code can be found [here](https://github.com/Weidsn/capstone_project/blob/main/data_cleaning_group2.py).
 
